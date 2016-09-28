@@ -22,6 +22,7 @@ repositories {
 }
 
 dependencies {
+    testCompile 'com.squareup:javapoet:1.7.0'
 }
 
 task sourcesJar(type: Jar, dependsOn: classes) {
