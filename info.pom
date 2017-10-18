@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project>
-  <name>Project</name>
-  <description>This project does this and that.</description>
-  <url>https://github.com/topobyte/project</url>
+  <name>Melon Reflection</name>
+  <description>Utilities related to reflection.</description>
+  <url>https://github.com/topobyte/melon-reflection</url>
 </project>
